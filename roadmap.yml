@@ -1,0 +1,87 @@
+title: Road Map
+description: |
+    This is an OWASP Top 10 The Game road map.
+
+authors:
+  - name: Pedro Miguel Díaz Peña
+    contact: pedro.diaz@owasp.org
+
+timeline:
+  - date: 2025-09-29
+    title: Public Release
+    description: Initial public release of OWASP Top 10 The Game.
+
+objectives:
+  - title: Adoption in the security community
+    description: |
+      Achieve widespread use of the game by the security community as a
+      learning tool for the OWASP Top 10 lists.
+
+  - title: Active community of board creators
+    description: |
+      Foster an active community of game board creators, engaging
+      cybersecurity experts, security tool builders, and industry
+      companies.
+
+milestones:
+  - title: How to Contribute Guide
+    description: Create, publish, and maintain the contribution guide for the project.
+    deliverables:
+      - title: How to add new game boards
+        state: DOING
+        requirement: MUST
+        description: Document the steps and required assets to add new game boards.
+      - title: Repository contribution guide
+        state: TODO
+        requirement: SHOULD
+        description: |
+          Define how to contribute to the game's repository: local setup, coding
+          standards, branching model, commit conventions, PR workflow, and how to
+          add new features or modify existing code.
+      - title: Guide for custom images and characters
+        state: TODO
+        requirement: SHOULD
+        description: |
+          Provide guidance on using custom images and characters so security teams
+          can personalize the game for their contexts without breaking consistency.
+
+  - title: Digital Game Features
+    description: Provide digital features so the game can be played beyond physical format.
+    deliverables:
+      - title: Virtual Table
+        state: DOING
+        requirement: MUST
+        description: |
+          Provide a digitized game table including the game board, OWASP tokens,
+          and the trust board, so that only the physical cards are needed to play.
+      - title: Categorized map selector
+        state: DOING
+        requirement: MUST
+        description: |
+          Implement a map selector categorized by typology, complexity, security
+          area, and other relevant filters to help players quickly find the
+          most suitable game board.
+      - title: Private map selector
+        state: TODO
+        requirement: MUST
+        description: |
+          Allow teams to create and select private game boards that can be played
+          without uploading anything to the project's repository.
+      - title: Peer-to-peer game rooms
+        state: TODO
+        requirement: SHOULD
+        description: |
+          Create peer-to-peer rooms so groups can play completely digitally
+          using their phones when meeting physically, without requiring a
+          central server.
+  - title: New Design
+    description: Commission professional graphic design for cards and overall game visuals.
+    deliverables:
+      - title: Redesign player cards
+        state: TODO
+        requirement: SHOULD
+        description: Update layout, iconography, and readability of player cards.
+      - title: Deck case design
+        state: DOING
+        requirement: SHOULD
+        description: Design a protective deck case for storing and transporting cards.
