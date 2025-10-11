@@ -1,0 +1,35 @@
+audience:
+  - breaker
+  - builder
+  - defender
+community:
+  - name: project-owasp-top-10-the-game
+    platform: slack
+    url: https://owasp.slack.com/archives/C09HDDLRN4B
+leaders:
+  - name: Pedro Miguel Díaz Peña
+    email: pedro.diaz@owasp.org
+level: 2
+license:
+  - Apache-2.0
+  - CC-BY-SA-4.0
+name: OWASP Top 10 The Game
+pitch: A very brief, one-line description of your project
+repositories:
+  - name: www-project-top-10-the-game
+    url: https://github.com/OWASP/www-project-top-10-the-game
+    description: OWASP Foundation web repository
+  - name: www-project-top-10-the-game
+    url: https://github.com/AgentsWorkingTogether/www-project-top-10-the-game
+    description: OWASP Foundation web repository
+  - name: mcp-sleep
+    url: https://github.com/AgentsWorkingTogether/mcp-sleep
+    description: Tool that allows you to wait a certain time to continue the execution of an agent.
+  - name: OWASPTop10TheGame
+    url: https://github.com/AgentsWorkingTogether/OWASPTop10TheGame
+tags:
+  - example-tag
+  - custom-tag-1
+  - custom-tag-2
+type: code
+website: https://owasp.org/www-project-top-10-the-game
