@@ -1,0 +1,29 @@
+audience:
+  - breaker
+  - builder
+  - defender
+community:
+  - name: project-owasp-top-10-the-game
+    platform: slack
+    url: https://owasp.slack.com/archives/C09HDDLRN4B
+leaders:
+  - name: Pedro Miguel Díaz Peña
+    email: pedro.diaz@owasp.org
+level: 2
+license:
+  - Apache-2.0
+  - CC-BY-SA-4.0
+name: OWASP Top 10 The Game
+pitch: OWASP Top 10 The Game is a gamified and interactive learning experience that transforms cybersecurity training to make it more engaging, practical, and collaborative. It focuses on the most critical real-world vulnerabilities described by OWASP, turning learning into a fun activity that fosters teamwork and builds a strong security culture, all in an accessible, free-to-play format.
+repositories:
+  - name: www-project-top-10-the-game
+    url: https://github.com/OWASP/www-project-top-10-the-game
+    description: OWASP Foundation web repository
+  - name: OWASPTop10TheGame
+    url: https://github.com/AgentsWorkingTogether/OWASPTop10TheGame
+tags:
+  - example-tag
+  - custom-tag-1
+  - custom-tag-2
+type: code
+website: https://owasp.org/www-project-top-10-the-game
