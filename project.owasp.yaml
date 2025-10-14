@@ -23,5 +23,7 @@ repositories:
     url: https://github.com/AgentsWorkingTogether/OWASPTop10TheGame
 tags:
   - example-tag
+  - custom-tag-1
+  - custom-tag-2
 type: code
 website: https://owasp.org/www-project-top-10-the-game
